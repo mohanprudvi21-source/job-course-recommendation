@@ -1,1 +1,1 @@
-# job-course-recommendation
+# job/course-recommendation
